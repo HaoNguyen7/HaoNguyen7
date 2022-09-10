@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaoNguyen7
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning design pattern, clean code, domain driven design,...
+- 👀 I’m interested in coding, playing
+- 🔎 I’m currently learning design pattern, clean code, domain driven design,...
 
 <!---
 HaoNguyen7/HaoNguyen7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
